@@ -1,0 +1,27 @@
+.reputation-title {
+    font-size: 38px;
+    font-weight: 700;
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.reputation-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 84px;
+}
+
+.reputation-item {
+    width: 292px;
+    margin-right: 66px;
+    border: solid #E0E3EB 1px;
+    padding-top: 20px;
+    padding-right: 18px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+
+.reputation-item:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,66 @@
+.connection {
+    padding-top: 60px;
+    padding-bottom: 61px;
+}
+
+.connection-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.connection-offer {
+    text-align: center;
+}
+
+.connection-offer h2 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.connection-text {
+    font-size: 20px;
+    margin-bottom: 38px;
+}
+
+.connection-input-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 592px;
+}
+
+.connection-input {
+    margin-bottom: 20px;
+    margin-right: 32px;
+    width: 280px;
+    height: 41px;
+}
+
+.connection-input:nth-child(2) {
+    margin-right: 0;
+}
+
+.connection-input:nth-child(4) {
+    margin-right: 0;
+}
+
+.connection-input:last-child {
+    margin-right: 0;
+}
+
+.connection-btn {
+    background-color: #2947A9;
+    color: #fff;
+    width: 271px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 103.5px;
+    padding-right: 103.5px;
+}
+
+.message {
+    width: 592px;
+    height: 135px;
+}

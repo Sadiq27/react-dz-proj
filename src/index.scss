@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+  }
+
+  $textColor: #292E3D;
+
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', 'Courier New', Courier, monospace, sans-serif;
+    font-size: 16px;
+    color: $textColor;
+  }
+  
+  a {
+    color: $textColor;
+  }
+  
+  .container {
+    width: 1420px;
+    margin: 0 auto;
+  }
+
+  .copy-right {
+    background-color: #2947A9;
+    color: #fff;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 112px;
+    overflow: hidden;
+  }

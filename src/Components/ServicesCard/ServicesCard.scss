@@ -1,0 +1,37 @@
+.sevices-card {
+    background-color: #F6F8F7;
+    padding-bottom: 28px;
+}
+
+.sevices-title {
+    padding-top: 44px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.sevices-wrapper {
+    display: flex;
+    justify-content: center;    
+    flex-wrap: wrap;
+}
+
+.sevices-item {
+    width: 271px;
+    height: 181px;
+    background-color: #2947A9;
+    color: #fff;
+    margin-right: 98px;
+    padding-top: 38px;
+    padding-bottom: 38px;
+    padding-right: 80.5px;
+    padding-left: 80.5px;
+    margin-bottom: 48px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.white {
+    background-color: #fff;
+    color: #2947A9;
+}

@@ -1,0 +1,46 @@
+.feed-back {
+    background-image: url('../../assets/icons/feedBackBg.png');
+    color: #fff;
+}
+
+.feed-back-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.feed-back-left-part {
+    margin-right: 182px;
+}
+
+.feed-back-left-part h2 {
+    width: 754px;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.feed-back-text {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.feed-back-btn {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: solid #fff 2px;
+    border-radius: 2px;
+    background: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 24px;
+    width: 232px;
+    height: 53px;
+}
+
+.decor {
+    text-decoration: underline;
+}

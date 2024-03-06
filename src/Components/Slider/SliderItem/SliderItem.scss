@@ -1,0 +1,36 @@
+.silder-item {
+    margin-right: 32px;
+    margin-bottom: 32px;
+    font-size: 0;
+}
+
+.silder-item:nth-child(2) {
+    margin-right: 0;
+}
+
+.silder-item:last-child {
+    margin-right: 0;
+}
+
+.offer {
+    background-color: #2947A9;
+    color: #fff;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-bottom: 16px;
+    padding-right: 22px;
+    width: 384px;
+}
+
+.offer h3 {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+.offer div {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Work Sans';
+}
